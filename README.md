@@ -1,4 +1,8 @@
 # my_school_42_experience
+42 piscine + first circle全课题的经验总结，附代码（仓库链接）。
+
+> [!WARNING]
+> 代码仅供学习参考，不要直接复制粘贴。有很多课题已经更新了，不保证时效性。
 
 ## Contents
 

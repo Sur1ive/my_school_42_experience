@@ -1,6 +1,6 @@
 # my_school_42_experience
 
-[简体中文](README.md) | [English](README.en.md) | **Français**
+[English](README.md) | [简体中文](README.zh.md) | **Français** | [日本語](README.ja.md)
 
 Un résumé de mon expérience sur l'ensemble des projets de la piscine 42 + first circle, avec le code (liens vers les dépôts).
 

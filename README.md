@@ -1,4 +1,4 @@
-# my_school_42_experience
+# my_42_experience
 
 **English** | [简体中文](README.zh.md) | [Français](README.fr.md) | [日本語](README.ja.md)
 
